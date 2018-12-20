@@ -1,3 +1,9 @@
+# from .cvsignore
+build 
+.settings 
+html 
+latex
+
 # Prerequisites
 *.d
 
